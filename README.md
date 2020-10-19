@@ -1,1 +1,16 @@
 # Code-201-Reading-Notes-20
+-Class-01 reading notes
+-Class-02 reading notes
+-Class-03 reading notes
+-Class-04 reading notes
+-Class-05 reading notes
+-Class-06 reading notes
+-Class-07 reading notes
+-Class-08 reading notes
+-Class-09 reading notes
+-Class-10 reading notes
+-Class-11 reading notes
+-Class-12 reading notes
+-Class-13 reading notes
+-Class-14 reading notes
+-Class-15 reading notes
