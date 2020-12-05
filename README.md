@@ -1,4 +1,4 @@
-#This is a summary of each chapter and reading assignment.#
+#This site is a summary for each chapter and reading assignments.#
 
 # Reading-Notes
 ### Code-102-Reading-Notes Intro to Software Development
