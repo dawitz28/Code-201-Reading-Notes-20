@@ -1,3 +1,5 @@
+#This is a summary of each chapter and reading assignment.#
+
 # Reading-Notes
 ### Code-102-Reading-Notes Intro to Software Development
 *[I did not take this class ](class-00.md)*
