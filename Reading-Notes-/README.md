@@ -1,5 +1,11 @@
+#This site is a summary for each chapter and reading assignments.#
+
 # Reading-Notes
-# Code-201-Reading-Notes
+### Code-102-Reading-Notes Intro to Software Development
+*[I did not take this class ](class-00.md)*
+
+
+## Code-201-Reading-Notes Foundations of Software Development 
 - [Class-01 reading notes](class-01.md)
 - [Class-02 reading notes](class-02.md)
 - [Class-03 reading notes](class-03.md)
@@ -17,7 +23,7 @@
 - [Class-15 reading notes](class-06.md)
 
 
-# Code-301-Reading-Notes
+## Code-301-Reading-Notes Intermediate Software Development
 - [Reading-01 reading notes](Reading-01.md)
 - [Reading-02 reading notes](Reading-02.md)
 - [Reading-03 reading notes](Reading-03.md)
@@ -34,3 +40,5 @@
 - [Reading-14 reading notes](Reading-14.md)
 - [Reading-15 reading notes](Reading-15.md)
 - [Reading-16 reading notes](Reading-16.md)
+
+**Code-401-Reading-Notes Advanced Software Development**
