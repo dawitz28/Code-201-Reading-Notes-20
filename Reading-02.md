@@ -1,4 +1,4 @@
-##Reading note 2##
+## Reading note 2 ## 
 
 - JQUERY:- makes it easier to accomplish lots of common JavaScript codes in a much faster and reliable way on most if not all major browsers without any additional fallback codes needed.
 Select elements:- it is much easier to select elements using JQuery’s css-style rather than using DOM Queries. The selectors are also more powerful and flexible.
@@ -27,12 +27,11 @@ Why do we use jQuery?
 
 -	Engaged collaboration: Usually when pair programming we tend to focus on problem that we’re trying to solve since we have someone else who is relying on us to participate; therefore we are less likely to get distracted or get side tracked. When we pair program we rely more on each other and we can often tend to find a solution together by masterminding without needing to ask for additional help which is what builds our self-confidence and push us to preform better.   
 
+- Learning from fellow students: We all have different ways to approaching problems and addressing them, so when we pair program there are endless problem solving techniques we can expose ourselves as well as our pair programmers while learning different unique approach to a new solution.
 
--	Learning from fellow students: We all have different ways to approaching problems and addressing them, so when we pair program there are endless problem solving techniques we can expose ourselves as well as our pair programmers while learning different unique approach to a new solution.
+- Social skills: When we pair program we sharpen our own communication skills, learn to be patients, learn different coding style and lot more office or co-working skills which will be a long-term asset and career impacts. Its one thing to know how to be a strong programmer, but knowing how to work with people and being a good communicator is just as important to employers. 
 
--	Social skills: When we pair program we sharpen our own communication skills, learn to be patients, learn different coding style and lot more office or co-working skills which will be a long-term asset and career impacts. Its one thing to know how to be a strong programmer, but knowing how to work with people and being a good communicator is just as important to employers. 
+- Job interview readiness: most of the skills we develop during pair programming might come handy when it comes to getting a job as most interview process involves pair programming either in person. This pair programming event usually allows an employers to determine if the candidate they have what it takes when it comes to carrying out exercises, such as code challenges, building a project or feature, or debugging an existing code base. All this takes place to get a better feel of the applicant and how well they work with co-workers during pair programming as a collaborator which says so much about the applicant outside of the programming skill sets.    
 
--	Job interview readiness: most of the skills we develop during pair programming might come handy when it comes to getting a job as most interview process involves pair programming either in person. This pair programming event usually allows an employers to determine if the candidate they have what it takes when it comes to carrying out exercises, such as code challenges, building a project or feature, or debugging an existing code base. All this takes place to get a better feel of the applicant and how well they work with co-workers during pair programming as a collaborator which says so much about the applicant outside of the programming skill sets.    
-
--	Work environment readiness: Many companies that uses pair programming during their hiring process expect to train fresh hires from CS-degree programs on how they operate to actually deliver a product. Starting pair programming at early as we do here at Code Fellows and familiarize ourselves with how pairing works may find the path to be a bit easier. 
+- Work environment readiness: Many companies that uses pair programming during their hiring process expect to train fresh hires from CS-degree programs on how they operate to actually deliver a product. Starting pair programming at early as we do here at Code Fellows and familiarize ourselves with how pairing works may find the path to be a bit easier. 
 
