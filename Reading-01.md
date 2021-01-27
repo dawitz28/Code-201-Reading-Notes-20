@@ -2,7 +2,7 @@
 
 - Responsive web designing allows your web page to fit screen and look decent on all sort of devices like tablet, mobile phones and desk tops. Responsive Web Design is not a program or a JavaScript it just uses HTML and CSS to make things happen internally without leaving out any information to fit much smaller devices, but it makes it work by adapting its content to fit any device by turning them into a sandwich bar or drop window.
 
-## Responsive Web Design is broken down into three main components as followed.
+## Responsive Web Design is broken down into three main components as followed ##
 Flexible Layouts, media queries and flexible media.
 
 - Flexible Layout is a way of building the layout of a website using measuring length units that are regularly known as percentages or em units. This length units are what used to declare common grid property values such as width, margin or padding. 
