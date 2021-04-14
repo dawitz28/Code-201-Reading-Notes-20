@@ -16,6 +16,8 @@
 
 - Pub/Sub – in Pub/Sub service and sends messages to the topic. A message contains a payload and optional attributes that describe the payload content. The service ensures that published messages are retained on behalf of subscriptions.
 
-
-
-
+# references 
+https://www.google.com/
+https://dictionary.cambridge.org/us/dictionary/english/queue
+https://www.geeksforgeeks.org/
+https://www.codesdope.com 
